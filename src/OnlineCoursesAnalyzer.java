@@ -72,7 +72,6 @@ public class OnlineCoursesAnalyzer {
         }
         return result;
     }
-
     //2
     public Map<String, Integer> getPtcpCountByInstAndSubject() {
         Map<String, Integer> result = new LinkedHashMap<>();
