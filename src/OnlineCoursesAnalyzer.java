@@ -63,6 +63,7 @@ public class OnlineCoursesAnalyzer {
         }
     }
 
+    
     //1
     public Map<String, Integer> getPtcpCountByInst() {
         TreeMap<String, Integer> result = new TreeMap<>(String::compareTo);
